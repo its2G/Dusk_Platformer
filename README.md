@@ -3,7 +3,7 @@
 
 ## 🎮 Play Now
 
-👉 [Click here to play the game!](https://yourusername.github.io/your-repo-name/)  
+👉 [Click here to play the game!](https://its2g.github.io/Dusk_Platformer/)  
 No installation needed — just open the link in your browser.
 
 ---
@@ -41,5 +41,6 @@ I also created the background music using my own music production skills to give
 
 This game helped build my confidence in programming and combining logic with creativity. It was the first step that made me want to pursue more game and app development projects.
 
-<img width="1282" height="715" alt="image" src="https://github.com/user-attachments/assets/d0ed0eab-111c-437f-92ec-d99e9dd66e13" />
+<img width="1277" height="710" alt="image" src="https://github.com/user-attachments/assets/8a8614a6-478c-44fb-895a-376b7b03c497" />
+
 
