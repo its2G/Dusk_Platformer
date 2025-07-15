@@ -1,6 +1,10 @@
 
 # 🕹️ Platformer Game Project
 
+## 🎮 Play Now
+👉 [Click here to play the game!](https://its2g.github.io/Dusk_Platformer/)  
+No installation needed — just open the link in your browser.
+
 ## 👨‍💻 About
 
 This was one of the first projects I created back in my first year — a 2D platformer game where I focused on both gameplay mechanics and sound design. I added a sky-level parkour challenge on the left side of the map where the player has to make their way to the flagpole, and I produced the in-game soundtrack myself using my background in music production.
