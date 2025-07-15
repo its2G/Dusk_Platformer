@@ -31,3 +31,5 @@ This project helped me get hands-on with programming logic and game mechanics in
 
 This project gave me a lot of confidence with both code and creativity. It showed me how much thought goes into the small things that make a game actually feel playable. Looking back, it's cool to see how far I’ve come — and how this was the foundation that kicked everything off.
 
+<img width="1282" height="715" alt="image" src="https://github.com/user-attachments/assets/d0ed0eab-111c-437f-92ec-d99e9dd66e13" />
+
